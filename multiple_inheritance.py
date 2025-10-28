@@ -1,5 +1,5 @@
 class A:
-    arg1=100
+    arg1=ii`0
     def __init__(self, var1):
         self.var1 = var1
         
